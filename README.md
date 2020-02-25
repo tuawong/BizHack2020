@@ -1,7 +1,7 @@
 # BizHack Hackathon 2020
  This project is submitted as the final deliverable for BizHack Hackathon 2020.  In order to encourage vendors in Bestbuy Marketplace to commit more effort into writing product description.  We utilize textual analysis to develop a scoring system of the product description based on various criterias.   The scoring system is versatile and can be adapted according to be Bestbuy's needs.  Product pitch is included as powerpoint presentation
  
-## Team Members and Acknowledgement
+## Data
 In complaince with data usage from Bestbuy, we have not included data in this repo
 
 ## Team Members and Acknowledgement
